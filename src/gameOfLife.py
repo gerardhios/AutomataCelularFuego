@@ -1,7 +1,6 @@
 import pygame
 import time
 import numpy as np
-import pygame_gui
 
 COLOR_BG = (10, 10 , 10)
 COLOR_GRID = (40, 40, 40)
