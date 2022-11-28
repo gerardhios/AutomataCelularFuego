@@ -4,6 +4,9 @@
 * Pablo Emanuel Alvarez Naranjo
 * Gerardo Gomez Cajero
 * Jose Pablo Padilla Galindo
+
+
+[Código Fuente](https://github.com/gerardhios/AutomataCelularFuego/blob/main/src/gameOfLife.py)
 ## Instalacion y uso
 ```
 $ pip install -r requirements.txt
